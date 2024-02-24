@@ -23,8 +23,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Wo&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-Wo&theme=solarized_dark)
 
 
