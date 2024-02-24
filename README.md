@@ -8,8 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Alex-Wo)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=solarized_dark)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -25,8 +23,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Wo&layout=compact)](https://github.com/Alex-Wo/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Wo&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-Wo&theme=solarized_dark)
 
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer+from+Russia)](https://git.io/typing-svg)-->
