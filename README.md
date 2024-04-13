@@ -17,8 +17,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Wo&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-Wo&theme=solarized_dark)
-
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer+from+Russia)](https://git.io/typing-svg)-->
 
