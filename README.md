@@ -19,7 +19,9 @@
 </div>-->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,git,github,docker,rabbitmq,bash,powershell,bootstrap,windows,linux&theme=light" />
+	<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,git,github,docker,rabbitmq,bash,powershell,bootstrap,windows,linux&theme=light" />
+	</a>
 </p>
 
 <h2 align="center">Бэкграунд:</h2>
