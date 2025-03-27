@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Александр</a> 
 
-<h3 align="center">Я - Python backend developer</h3>
+<h3 align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке веб-приложений. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственный проектов.</h3>
 
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)-->
 ***
