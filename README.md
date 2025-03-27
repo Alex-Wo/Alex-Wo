@@ -1,6 +1,6 @@
-<h1 align="center">Привет, меня зовут <a href="" target="_blank">Александр</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python backend developer</h3>
+<h1 align="center">Привет, меня зовут Александр</a> 
+
+<h3 align="center">Я - Python backend developer</h3>
 
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)-->
 ***
