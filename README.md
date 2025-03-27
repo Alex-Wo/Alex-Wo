@@ -16,7 +16,7 @@
 <!--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AleksandrEg)
 
-#Мой бэкграунд:
+# Мой бэкграунд:
 <p>Профессиональное инженерно-техническое образование. Выпускник Краснодарского машиностроительного колледжа 2001-2005 гг.
 
 Последние 7 лет работал инженером по гарантии, совмещая с обязанностями старшего механика. За время работы:
