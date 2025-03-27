@@ -34,5 +34,5 @@
 
 Выбор пал на Python из-за его обширного применения, универсальности, огромного количества библиотек, большого комьюнити и постоянной поддержки со стороны разработчиков.</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Motoparts-Store)](https://github.com/Alex-Wo/Motoparts-Store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Wo&repo=Motoparts-Store)](https://github.com/Alex-Wo/Motoparts-Store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
