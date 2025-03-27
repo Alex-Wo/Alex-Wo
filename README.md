@@ -18,6 +18,10 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 </div>-->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,git,github,docker,rabbitmq,powershell,bootstrap,windows,linux&theme=light" />
