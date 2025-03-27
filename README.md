@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Александр</a> 
+<h1 align="center">Привет, меня зовут Александр</h1> 
 
 <h3 align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке веб-приложений. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</h3>
 
@@ -16,7 +16,7 @@
 <!--[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AleksandrEg)
 
-# Мой background:
+<h2 align="center">Бэкграунд:</h2>
 Профессиональное инженерно-техническое образование. Выпускник Краснодарского машиностроительного колледжа 2001-2005 гг.
 
 Последние 7 лет работал инженером по гарантии, совмещая с обязанностями старшего механика. За время работы:
