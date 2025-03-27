@@ -18,15 +18,19 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 </div>-->
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>-->
+
+---
 
 <p align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,git,github,docker,rabbitmq,powershell,bootstrap,windows,linux&theme=light" />
 	</a>
 </p>
+
+---
 
 <h2 align="center">Бэкграунд:</h2>
 Профессиональное инженерно-техническое образование. Выпускник Краснодарского машиностроительного колледжа 2001-2005 гг.
@@ -46,6 +50,6 @@
 
 Выбор пал на Python из-за его обширного применения, универсальности, огромного количества библиотек, большого комьюнити и постоянной поддержки со стороны разработчиков.
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div>-->
