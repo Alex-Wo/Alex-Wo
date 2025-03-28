@@ -1,6 +1,8 @@
 <h1 align="center">Привет, меня зовут Александр</h1> 
 
-<p align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке веб-приложений. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</p>
+<p align="center">Я занимаюсь разработкой веб-приложений на языке Python и увлечённо изучаю технологии, которые мне интересны. </p>
+
+<p align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</p>
 
 <!--<div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
