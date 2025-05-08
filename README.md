@@ -2,7 +2,7 @@
 
 <p align="center">Я занимаюсь разработкой веб-приложений на языке Python и увлечённо изучаю технологии, которые мне интересны. </p>
 
-<p align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</p>
+<!--<p align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</p>-->
 
 <!--<div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
@@ -27,7 +27,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,git,github,docker,rabbitmq,powershell,bootstrap,windows,linux&theme=light" />
+    		<img src="https://skillicons.dev/icons?i=py,django,postgres,pycharm,redis,git,docker,powershell,bootstrap,linux&theme=light" />
 	</a>
 </p>
 
