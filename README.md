@@ -6,31 +6,17 @@
 
 <p align="center">Пишу на Python 3 года. Активно развиваюсь в направлении Backend.</p>-->
 
-<p align="center">Специализируюсь на разработке веб-приложений e-commerce и сайтов с использованием Django. Также занимаюсь написанием скриптов различного назначения и работой с API, используя Django REST Framework.</p>
+<!--<p align="center">Специализируюсь на разработке веб-приложений e-commerce и сайтов с использованием Django. Также занимаюсь написанием скриптов различного назначения и работой с API, используя Django REST Framework.</p>
 
-<p align="center">Программирую на Python в течение 3 лет и активно развиваюсь в направлении Backend.</p>
+<p align="center">Программирую на Python в течение 3 лет и активно развиваюсь в направлении Backend.</p>-->
 
-<!--<p align="center">На протяжении 3-х лет самостоятельно обучаюсь back-end разработке. Достаточные знания вёрстки + стилей, а также частое применение библиотеки Bootstrap позволяют уделять внимание и front-end части собственных проектов.</p>-->
+<p align="center">Я разрабатываю надёжные backend-системы с фокусом на Django, PostgreSQL, Redis и Docker.  Пишу скрипты различного назначения, работаю с API используя Django REST framework.</p>
 
-<!--<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
-</div>-->
+<p align="center">Специализируюсь на разработке веб-приложений e-commerce и активно развиваюсь в направлении backend.</p>
 
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>-->
+<p align="center">Открыт к сотрудничеству, проектам и новым идеям. Успешно применю накопленный опыт командной работы и коммуникаций, с целью закрыть потребности Вашего бизнеса.</p>
+
+<br>
 <h2 align="center">Стек:</h2>
 
 <p align="center">
@@ -39,12 +25,13 @@
 	</a>
 </p>
 
-
-<h2 align="center">Бэкграунд:</h2>
-Инженерно-техническое образование: выпускник Краснодарского машиностроительного колледжа (2001–2005).
-
-Опыт работы: 15 лет на инженерно-технических должностях, последние 7 лет - инженер по гарантии и старший механик.\
-Мои достижения:
+<br>
+<h2 align="center">Бэкграунд:</h2>  
+<p align="center">Инженерно-техническое образование: выпускник Краснодарского машиностроительного колледжа (2001–2005).</p>
+<br>
+<p align="center">Опыт работы: 15 лет на инженерно-технических должностях, последние 7 лет - инженер по гарантии и старший механик.</p>
+<br>
+<p align="center">Мои достижения:</p>
 
 • Создание локального отдела испытаний и технического контроля;\
 • Проверка и доказательство гипотез по снижению отказов техники;\
@@ -53,7 +40,7 @@
 • Снижение процента отказов техники с 60 % до 10 %;\
 • Получение 8 патентов на технические решения.
 
-Решил двигаться в сторону IT, так как сейчас это перспективная и развивающаяся отрасль, в которой я смогу применить накопленный опыт командной работы, коммуникации, и  закрытия потребностей бизнеса.
+<!--Решил двигаться в сторону IT, так как сейчас это перспективная и развивающаяся отрасль, в которой я смогу применить накопленный опыт командной работы, коммуникации, и  закрытия потребностей бизнеса.-->
 
 <!--Решил перейти в сферу IT-технологий, т.к. в своей специализации вектор развития полностью исчерпан и работа превратилась в рутину.-->
 
