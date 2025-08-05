@@ -4,15 +4,13 @@
 
 <!--<p align="center">Занимаюсь разработкой веб-приложений e-commerce и сайтов на Django, написанием скриптов различного назначения, а также написанием и работой с API (Django REST Framework).</p>
 
-<p align="center">Пишу на Python 3 года. Активно развиваюсь в направлении Backend.</p>-->
-
 <!--<p align="center">Специализируюсь на разработке веб-приложений e-commerce и сайтов с использованием Django. Также занимаюсь написанием скриптов различного назначения и работой с API, используя Django REST Framework.</p>
 
 <p align="center">Программирую на Python в течение 3 лет и активно развиваюсь в направлении Backend.</p>-->
 
 <p align="center">Разрабатываю надёжные backend-системы с фокусом на Django, PostgreSQL, Redis и Docker.  Пишу скрипты различного назначения, работаю с API используя Django REST framework.</p>
 
-<p align="center">Специализируюсь на разработке веб-приложений e-commerce и активно развиваюсь в направлении backend.</p>
+<p align="center">Специализируюсь на разработке веб-приложений e-commerce, а также CRM и ERP систем.</p>
 
 <h2 align="center">Стек:</h2>
 
