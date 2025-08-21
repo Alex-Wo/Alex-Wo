@@ -10,7 +10,7 @@
 
 <p align="center">Разрабатываю надёжные backend-системы с фокусом на Django, PostgreSQL, Redis и Docker.  Пишу скрипты различного назначения, работаю с API используя Django REST framework.</p>
 
-<p align="center">Специализируюсь на разработке веб-приложений e-commerce, а также CRM и ERP систем.</p>
+<!--<p align="center">Специализируюсь на разработке веб-приложений e-commerce, а также CRM и ERP систем.</p>-->
 
 <h2 align="center">Стек:</h2>
 
