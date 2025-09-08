@@ -20,11 +20,23 @@
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://komarev.com">
+    		<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=github_dark" />
+	</a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Alex-Wo&color=green)
+<p align="center">
+	<a href="https://komarev.com">
+    		<img src="https://komarev.com/ghpvc/?username=Alex-Wo&color=green" />
+	</a>
+</p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=github_dark)
+<!--![](https://komarev.com/ghpvc/?username=Alex-Wo&color=green)-->
+
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=github_dark)-->
 
 
 <!--<h2 align="center">Бэкграунд:</h2>  
