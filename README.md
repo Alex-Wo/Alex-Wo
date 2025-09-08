@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com">
-    		<img src="https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif" />
+	<a href="https://github.com/Alex-Wo?tab=repositories">
+    		<img src="https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif" width="458" height="237" />
 	</a>
 </p>
 
