@@ -8,7 +8,9 @@
 
 <p align="center">Программирую на Python в течение 3 лет и активно развиваюсь в направлении Backend.</p>-->
 
-<p align="center">Разрабатываю надёжные backend-системы с фокусом на Django, PostgreSQL, Redis и Docker.  Пишу скрипты различного назначения, работаю с API используя Django REST framework.</p>
+<p align="center">Программист-самоучка. Разрабатываю надёжные backend-системы E-commerce, CRM и ERP с фокусом на Python, Django и Django REST framework для API. Создаю лаконичные интерфейсы на Bootstrap.</p>
+
+<p align="center">Интересуюсь аспектами информационной безопасности, реверс-инжинирингом, сетевыми технологиями и механизмами защиты от киберугроз.</p>
 
 <!--<p align="center">Специализируюсь на разработке веб-приложений e-commerce, а также CRM и ERP систем.</p>-->
 
@@ -37,9 +39,6 @@
     		<img src="https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif" width="458" height="237" />
 	</a>
 </p>
-
-
-
 
 <!--![](https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif)-->
 
