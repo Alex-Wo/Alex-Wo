@@ -20,7 +20,12 @@
 	</a>
 </p>
 
+
 ![](https://komarev.com/ghpvc/?username=Alex-Wo&color=green)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=blue_green)
+
 
 <!--<h2 align="center">Бэкграунд:</h2>  
 <p>Инженерно-техническое образование: выпускник Краснодарского машиностроительного колледжа.</p>
