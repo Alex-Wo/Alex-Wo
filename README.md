@@ -32,8 +32,16 @@
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://github.com">
+    		<img src="https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif" />
+	</a>
+</p>
 
-<!--![](https://komarev.com/ghpvc/?username=Alex-Wo&color=green)-->
+
+
+
+<!--![](https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif)-->
 
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=github_dark)-->
