@@ -24,7 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=Alex-Wo&color=green)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Wo&theme=github_dark)
 
 
 <!--<h2 align="center">Бэкграунд:</h2>  
